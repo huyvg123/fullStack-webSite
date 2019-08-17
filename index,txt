@@ -1,8 +1,0 @@
-//Phân biệt "var" và "let" trong js: 
-1. Giống nhau: 
-- Đều là từ khóa(keyword)
-- Đều để khai báo biến trong js
-2. Khác nhau: 
-- Phạm vi của biến số sử dụng "var" là phạm vi hàm số hoặc bên ngoài hàm số, toàn cục
-- Phạm vi của biến số sử dụng let là phạm vi một khối, xác định bởi cặp ngoặc {}
-
